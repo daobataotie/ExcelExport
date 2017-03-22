@@ -162,6 +162,7 @@
             // 
             // txt_Company
             // 
+            this.txt_Company.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_Company.Location = new System.Drawing.Point(107, 95);
             this.txt_Company.Name = "txt_Company";
             this.txt_Company.Size = new System.Drawing.Size(439, 21);
@@ -170,6 +171,7 @@
             // 
             // txt_TestMethod
             // 
+            this.txt_TestMethod.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_TestMethod.Location = new System.Drawing.Point(107, 127);
             this.txt_TestMethod.Name = "txt_TestMethod";
             this.txt_TestMethod.Size = new System.Drawing.Size(177, 21);
@@ -177,6 +179,7 @@
             // 
             // txt_Position
             // 
+            this.txt_Position.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_Position.Location = new System.Drawing.Point(376, 127);
             this.txt_Position.Name = "txt_Position";
             this.txt_Position.Size = new System.Drawing.Size(170, 21);
@@ -184,6 +187,7 @@
             // 
             // txt_Manufacturer
             // 
+            this.txt_Manufacturer.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_Manufacturer.Location = new System.Drawing.Point(108, 158);
             this.txt_Manufacturer.Name = "txt_Manufacturer";
             this.txt_Manufacturer.Size = new System.Drawing.Size(177, 21);
@@ -198,6 +202,7 @@
             // 
             // txt_Model
             // 
+            this.txt_Model.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_Model.Location = new System.Drawing.Point(108, 193);
             this.txt_Model.Name = "txt_Model";
             this.txt_Model.Size = new System.Drawing.Size(177, 21);
@@ -214,6 +219,7 @@
             // 
             // txt_TestedBy
             // 
+            this.txt_TestedBy.ImeMode = System.Windows.Forms.ImeMode.Close;
             this.txt_TestedBy.Location = new System.Drawing.Point(376, 190);
             this.txt_TestedBy.Name = "txt_TestedBy";
             this.txt_TestedBy.Size = new System.Drawing.Size(170, 21);
