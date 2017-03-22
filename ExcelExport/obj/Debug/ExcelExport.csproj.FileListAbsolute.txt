@@ -9,3 +9,6 @@ G:\Users\caoru_000\Desktop\ExcelExport\ExcelExport\obj\Debug\ExcelExport.csproj.
 G:\Users\caoru_000\Desktop\ExcelExport\ExcelExport\obj\Debug\ExcelExport.exe
 G:\Users\caoru_000\Desktop\ExcelExport\ExcelExport\obj\Debug\ExcelExport.pdb
 G:\Users\caoru_000\Desktop\ExcelExport\ExcelExport\obj\Debug\ExcelExport.csprojResolveAssemblyReference.cache
+D:\Company Project\Git - ERP\ExcelExport\ExcelExport\bin\Debug\ExcelExport.exe.config
+D:\Company Project\Git - ERP\ExcelExport\ExcelExport\obj\Debug\ExcelExport.exe
+D:\Company Project\Git - ERP\ExcelExport\ExcelExport\obj\Debug\ExcelExport.pdb
